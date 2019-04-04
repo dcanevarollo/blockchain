@@ -1,5 +1,5 @@
 # PyCoin
-A basic implementation of a **cryptocurrencies** Blockchain API.
+A basic implementation of a **cryptocurrency** Blockchain API.
 
 ## blockchain.py
 Contains the Blockchain class that manipulates the network chain.
@@ -30,7 +30,7 @@ python server.py
 
 > GET localhost:5000/mine
 
-- **Adding a new transaction
+- **Adding a new transaction**
 
 > POST localhost:5000/transactions/new
 
